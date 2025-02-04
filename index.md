@@ -2,4 +2,4 @@
 Hello, I'm Cathy Ng. Nice to meet you.
 
 # Github Page
-![Github Page](https://github.com/Nmcc1112)
+[Github Page](https://github.com/Nmcc1112)
